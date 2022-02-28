@@ -1,0 +1,15 @@
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\bin\Debug\net6.0\RpgPoo.exe
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\bin\Debug\net6.0\RpgPoo.deps.json
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\bin\Debug\net6.0\RpgPoo.runtimeconfig.json
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\bin\Debug\net6.0\RpgPoo.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\bin\Debug\net6.0\ref\RpgPoo.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\bin\Debug\net6.0\RpgPoo.pdb
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.csproj.AssemblyReference.cache
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.AssemblyInfoInputs.cache
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.AssemblyInfo.cs
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.csproj.CoreCompileInputs.cache
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\ref\RpgPoo.dll
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.pdb
+C:\Users\vini3\Desktop\Repositórios\bootcamp-gft\RpgPoo\RpgPoo\obj\Debug\net6.0\RpgPoo.genruntimeconfig.cache
