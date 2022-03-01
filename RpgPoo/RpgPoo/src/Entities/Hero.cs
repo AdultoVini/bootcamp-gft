@@ -6,17 +6,14 @@ using System.Threading.Tasks;
 
 namespace RpgPoo.src.Entities;
 
-internal class Hero
+internal abstract class Hero
 {
-    public String Name { get; private set; }
-    public int Level { get; private set; }
-    public String HeroType { get; private set; }
+    public String Name { get; protected set; }
+    public int Level { get; protected set; }
+    public String HeroType { get; protected set; }
 
-    public Hero(String name, int level, String type)
+    public virtual String Attack()
     {
-        this.Name = name;
-        this.Level = level;
-        this.HeroType = type;
-        Console.WriteLine("================\nNome: " + this.Name + "\nLevel: " + this.Level + "\nClasse: " + this.HeroType);
+        return this.Name + " usou um ataque básico!";
     }
 }

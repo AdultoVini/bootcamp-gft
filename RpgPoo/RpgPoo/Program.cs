@@ -1,6 +1,7 @@
 ﻿using RpgPoo.src.Entities;
 
-Hero[] heroi = new Hero[2];
-heroi[0] = new Hero("Arus", 2, "Knigth");
-heroi[1] = new Hero("sadokaso", 1, "asdas");
-Console.WriteLine(heroi[1].ToString());
+Knigth cavalheiro = new Knigth("Arus", 23);
+Wizard mago = new Wizard("Raiden", 23);
+Console.WriteLine(cavalheiro.Attack());
+Console.WriteLine(mago.Attack());
+
